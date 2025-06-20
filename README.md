@@ -106,9 +106,9 @@ By linking data to actionable solutions, this work aims to **reduce PPD cases by
 ---
 
 ## ✉️ Contact  
-**Lead Researcher**: [Your Name]  
-**Email**: [your.email@example.com]  
-**Institutions**: [University/Organization]  
+**Lead Researcher**: [John Megwe]  
+**Email**: [johnmwangimegwe@gmail.com]  
+**Institutions**: [Zindua School]  
 
 ---
 
